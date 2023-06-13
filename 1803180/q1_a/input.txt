@@ -1,0 +1,2 @@
+ let COUNTER as INTEGER;
+ FOR_LOOP ( COUNTER from 1.0 to 10); 

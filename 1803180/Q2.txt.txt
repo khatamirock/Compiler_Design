@@ -1,0 +1,9 @@
+ Q2. Consider given statements, 
+
+1. He Loves "Pizza". 
+2. He Loves "Burger".  
+3. He Loves "Pasta". 
+
+a) Show a flex file which can tokenize given statements. 
+
+b) Show a bison file which can parse given statements.

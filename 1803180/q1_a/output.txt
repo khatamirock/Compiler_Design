@@ -1,0 +1,16 @@
+ let -> LET
+ COUNTER -> COUNTER
+ as -> ASSIGN
+ INTEGER -> INT
+; -> SEMI
+
+ FOR_LOOP -> for Loop
+ ( -> LPAREN
+ COUNTER -> COUNTER
+ from -> ID
+ 1.0 -> FCONST
+ to -> ID
+ 10 -> ICONST
+) -> RPAREN
+; -> SEMI
+ 
