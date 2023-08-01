@@ -1,0 +1,3 @@
+int abc;
+ab = 2;
+abc = a + 6;

@@ -1,0 +1,6 @@
+inserting abc with type 1
+inserting a with type 1
+same variable is declared more than once  a 
+ Types are incompatiable
+diff parsing 
+Parsing finished!
