@@ -1,0 +1,3 @@
+let X as integer = IN();
+let Y as integer = 10 - X;  
+OUT(X);

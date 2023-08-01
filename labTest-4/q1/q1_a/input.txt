@@ -1,0 +1,8 @@
+main() function
+begin
+  let x has type integer
+   let y has type integer
+  x assign 10
+  y assign 20 plus 12 minus x
+  x k print kori
+end
